@@ -2,16 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.21",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "rampage",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"AIModule"
-			]
-		}
-	]
+	"Description": ""
 }
